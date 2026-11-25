@@ -1,83 +1,69 @@
+<!-- MYG TECH | GitHub Profile -->
 <div align="center">
-
-# Muhammed Yusuf Gültekin
-
-### Software & Electronics Engineer
-
-**MYG TECH** · Engineering · Software · Electronics · Industrial Automation
-
-[![Website](https://img.shields.io/badge/Website-mygultekin.web.app-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://myusufgultekin.web.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-nicewo-181717?style=for-the-badge&logo=github)](https://github.com/nicewo)
-[![Location](https://img.shields.io/badge/Location-Kütahya%2C%20Türkiye-red?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/search/?api=1&query=Kutahya%2C%20Turkey)
-
+  <img src="./assets/myg-banner.svg" alt="MYG TECH — Software, Electronics and Industrial Automation" width="100%" />
+  <p>
+    <a href="https://myusufgultekin.web.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-20A4F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://github.com/nicewo"><img src="https://img.shields.io/badge/GitHub-nicewo-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+    <a href="./README.en.md"><img src="https://img.shields.io/badge/English-README-64748b?style=for-the-badge" alt="English" /></a>
+  </p>
 </div>
 
----
+## Merhaba, ben Muhammed Yusuf Gültekin
 
-## About Me
+Yazılım, elektronik ve endüstriyel otomasyon alanlarında çalışan bir mühendislik geliştiricisiyim. Donanım ile yazılımın kesiştiği noktalarda; sahada karşılığı olan, gerçek problemlere çözüm üreten sistemler geliştirmeyi seviyorum.
 
-I am an independent software and electronics developer focused on building practical engineering solutions.
+Çalışmalarım; masaüstü yazılımlarından gömülü sistemlere, PLC tabanlı otomasyondan bilgisayarlı görü uygulamalarına kadar uzanıyor.
 
-My work brings together software development, embedded systems, electronics, industrial automation and machine technologies. I enjoy designing systems from hardware and firmware to desktop applications and complete engineering tools.
+## Öne çıkan projeler
 
-Through **MYG TECH**, I develop independent projects and engineering products with a focus on functionality, reliability and usability.
+| Proje | Açıklama | Teknolojiler |
+|---|---|---|
+| [MYG Electrical](https://github.com/nicewo/MYG.Electrical) | Elektrik şeması çizimi ve otomatik bağlantı odaklı masaüstü mühendislik yazılımı | C#, WPF, .NET |
+| [MyG RideR](https://github.com/nicewo/MyGRideR) | GPS takibi, hız göstergesi ve GPX dışa aktarımı özelliklerine sahip motosiklet uygulaması | .NET MAUI, GPS |
+| [RealVisionLab](https://github.com/nicewo/RealVisionLab) | Bilgisayarlı görü ve görüntü işleme çalışmaları | Computer Vision |
+| [MyG JARVIS](https://github.com/nicewo/MyG.JARVIS) | Kişisel asistan ve otomasyon odaklı yazılım projesi | Software |
+| [MalzemeTalep](https://github.com/nicewo/MalzemeTalep) | Malzeme talep ve takip süreçleri için masaüstü uygulaması | C#, WPF |
 
-## Technical Interests
+## Teknik alanlar
 
-- **Software Development:** C#, .NET, WPF, Windows Forms, .NET MAUI, C++, PHP, Node.js
-- **Embedded Systems:** ESP32, STM32, Arduino, Nuvoton, firmware development
-- **Industrial Automation:** PLC systems, Siemens, Delta, Modbus, HMI, SCADA
-- **Electronics:** PCB design, microcontrollers, industrial communication
-- **Engineering:** Machine automation, machine design, SolidWorks, technical applications
-- **Web Technologies:** JavaScript, Next.js, HTML, CSS, MongoDB, MySQL
+**Yazılım geliştirme**
+<br/>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/WPF-0078D4?style=flat-square" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
-## Featured Projects
+**Gömülü sistemler ve elektronik**
+<br/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/PCB_Design-Engineering-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/Altium-CC0000?style=flat-square" />
 
-### [MYG Electrical](https://github.com/nicewo/MYG.Electrical)
-Windows-based electrical schematic design software for machine manufacturing. Focused on IEC electrical drawings, automatic wiring and multi-page project management.
+**Endüstriyel otomasyon ve mühendislik**
+<br/>
+<img src="https://img.shields.io/badge/PLC-Industrial_Automation-334155?style=flat-square" />
+<img src="https://img.shields.io/badge/Modbus-Protocol-0F766E?style=flat-square" />
+<img src="https://img.shields.io/badge/Siemens-TIA_Portal-009999?style=flat-square" />
+<img src="https://img.shields.io/badge/Delta-PLC-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/SolidWorks-Engineering-DA291C?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?style=flat-square" />
 
-### [MyG RideR](https://github.com/nicewo/MyGRideR)
-A motorcycle-focused mobile application with GPS tracking, speedometer and GPX functionality.
+## Yaklaşımım
 
-### [RealVisionLab](https://github.com/nicewo/RealVisionLab)
-A computer vision and image-processing project.
-
-### [MYG JARVIS](https://github.com/nicewo/MyG.JARVIS)
-An experimental personal assistant project.
-
-### [MalzemeTalep](https://github.com/nicewo/MalzemeTalep)
-A material request and management application designed for practical business workflows.
-
-### VP100 — Vision + PLC
-An ongoing engineering project aiming to combine machine vision, PLC functionality and industrial I/O in a unified runtime environment.
-
-## Technology Stack
-
-<div align="center">
-
-![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![DotNet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![WPF](https://img.shields.io/badge/WPF-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-## MYG TECH
-
-Independent engineering and software development.
-
-**Design. Develop. Engineer.**
+- **Uçtan uca geliştirme:** Elektronik donanım, firmware, haberleşme ve uygulama yazılımını birlikte ele almak.
+- **Saha odaklı mühendislik:** Güvenilirlik, bakım kolaylığı ve gerçek çalışma koşullarını tasarımın parçası yapmak.
+- **Sürekli geliştirme:** Öğrenmek, prototiplemek ve fikirleri çalışan ürünlere dönüştürmek.
 
 <div align="center">
-
-[**Personal Website**](https://myusufgultekin.web.app/) · [**GitHub Repositories**](https://github.com/nicewo?tab=repositories)
-
+  <br/>
+  **Projelerimi ve çalışmalarımı incelemek için**
+  <br/>
+  <a href="https://myusufgultekin.web.app/">myusufgultekin.web.app</a>
+  <br/><br/>
+  <sub>MYG TECH · Software & Electronics Engineering</sub>
 </div>
